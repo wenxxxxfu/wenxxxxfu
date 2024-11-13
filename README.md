@@ -11,6 +11,7 @@ My name is Finn Fu. I received my PhD from the Institute of Microelectronics, Ch
 
 -   :pencil2: Python / C / C++ / Verilog / SystemVerilog
 -   :seedling:During PhD, my research interests include few-shot learning, self-supervised learning, and medical image processing. Now, my work is related to computer architecture. Yes, it's a big difference, but I'm sure I can handle it.
+-   :star:I have a wide range of interests, including reading, hiking and watching movies, and I want to try more areas that I have never covered in the future.
 
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
