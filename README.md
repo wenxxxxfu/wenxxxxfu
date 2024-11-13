@@ -26,4 +26,4 @@ My name is Finn Fu. I received my PhD from the Institute of Microelectronics, Ch
 
 </div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wenxxxxfu&repo=github-readme-stats&show_owner=True)](https://github.com/wenxxxxfu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wenxxxxfu&layout=compact)](https://github.com/wenxxxxfu/github-readme-stats)
