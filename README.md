@@ -5,8 +5,8 @@
 My name is Finn Fu. I received my PhD from the Institute of Microelectronics, Chinese Academy of Sciences, and now work as a logic design engineer in Sophgo.
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&theme=dark&show_icons=true">
-    <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=wenxxxxfu&theme=dark&show_icons=true">
+    <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=wenxxxxfu&show_icons=true">
 </picture>
 
 -   :pencil2: Python / C++ /  Verilog / Python / SystemVerilog
