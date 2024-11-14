@@ -10,8 +10,8 @@ My name is Finn Fu. I received my PhD from the Institute of Microelectronics, Ch
 </picture>
 
 -   :pencil2: Python / C / C++ / Verilog / SystemVerilog
--   :seedling:During PhD, my research interests include few-shot learning, self-supervised learning, and medical image processing. Now, my work is related to computer architecture.
--   :star:I have a wide range of interests, including reading, hiking and watching movies, and I want to try more areas that I have never covered in the future.
+-   :seedling: During PhD, my research interests include few-shot learning, self-supervised learning, and medical image processing. Now, my work is related to computer architecture.
+-   :star: I have a wide range of interests, including reading, hiking and watching movies, and I want to try more areas that I have never covered in the future.
 -   :email: contact me by: fwen1999@126.com
 
 
