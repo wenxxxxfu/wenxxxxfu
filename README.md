@@ -24,6 +24,5 @@ My name is Finn Fu. I received my PhD from the Institute of Microelectronics, Ch
 
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wenxxxxfu&layout=compact&theme=vue&card_width=445&hide_border=true
-)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wenxxxxfu&layout=compact&theme=vue&card_width=445&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)         ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wenxxxxfu&layout=compact&theme=vue&hide_border=true&card_width=445)  
