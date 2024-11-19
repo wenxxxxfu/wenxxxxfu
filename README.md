@@ -5,8 +5,8 @@
 My name is Finn Fu. I received my PhD from the Institute of Microelectronics, Chinese Academy of Sciences, and now work as a logic design engineer in Sophgo.
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=wenxxxxfu&show_icons=true&theme=radical">
-    <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=wenxxxxfu&show_icons=true&theme=radical">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=wenxxxxfu&show_icons=true&theme=vue&hide_border=true">
+    <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=wenxxxxfu&show_icons=true&theme=vue&hide_border=true">
 </picture>
 
 -   :pencil2: Python / C / C++ / Verilog / SystemVerilog
@@ -24,5 +24,4 @@ My name is Finn Fu. I received my PhD from the Institute of Microelectronics, Ch
 
 </div>
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wenxxxxfu&layout=compact&theme=vue&card_width=445&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)         ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wenxxxxfu&layout=compact&theme=vue&hide_border=true&card_width=445)  
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wenxxxxfu&layout=compact&theme=vue&hide_border=true&card_width=890)  
